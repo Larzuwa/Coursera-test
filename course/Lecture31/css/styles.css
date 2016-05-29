@@ -134,11 +134,11 @@ body {
 }
 
 #menu-tile {
-  background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/menu-tile.jpg") no-repeat;
+  background: url("course/Lecture31/images/menu-tile.jpg") no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/specials-tile.jpg") no-repeat;
+  background: url("course/Lecture31/images/specials-tile.jpg") no-repeat;
   background-position: center;
 }
 
@@ -236,7 +236,7 @@ h3.menu-item-title {
 
 @media (min-width: 1200px) {
     .container .jumbotron {
-        background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/jumbotron_1200.jpg") no-repeat;
+        background: url("course/Lecture31/images/jumbotron_1200.jpg") no-repeat;
         height: 675px;
     }
 }
@@ -246,7 +246,7 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
     /* Header */
     #logo-img {
-        background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/restaurant-logo_medium.png") no-repeat;
+        background: url("course/Lecture31/images/restaurant-logo_medium.png") no-repeat;
         width: 100px;
         height: 100px;
         margin: 5px 5px 5px 0;
@@ -254,7 +254,7 @@ h3.menu-item-title {
     /* End Header */
     /* Home Page */
     .container .jumbotron {
-        background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/jumbotron_992.jpg") no-repeat;
+        background: url("course/Lecture31/images/jumbotron_992.jpg") no-repeat;
         height: 558px;
     }
     /* End Home Page */
@@ -265,7 +265,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
     .container .jumbotron {
-        background: url("/Users/Laura/Coursera/Webdesign/Course/Coursera-test/course/Lecture31/images/jumbotron_768.jpg") no-repeat;
+        background: url("course/Lecture31/images/jumbotron_768.jpg") no-repeat;
         height: 432px;
     }
     /* End Home Page */
